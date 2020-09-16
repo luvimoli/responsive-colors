@@ -65,6 +65,7 @@ footer {
 
   #column-1 {
     background-color: pink;
+    width: 100%;
   }
 
   #column-2 {
@@ -78,6 +79,10 @@ footer {
   footer {
     background-color: rebeccapurple;
   }
+
+  .col-3 {
+    width: 50%;
+  }
   
 }
 
@@ -90,6 +95,7 @@ footer {
 
   #column-1 {
     background-color: mediumseagreen;
+    width: 33.3%
   }
 
   #column-2 {
@@ -102,6 +108,10 @@ footer {
 
   footer {
     background-color: mediumaquamarine;
+  }
+  
+  .col-3 {
+    width: 33.3%;
   }
    
 }
